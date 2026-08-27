@@ -23,7 +23,9 @@ This project is built to demonstrate core **Python fundamentals** including **`p
 - 🔍 Displays the data type and memory address of each variable using `type()` and `id()`
 - 📋 Prints a formatted summary of all collected information
 - 🙏 Friendly exit/thank-you message
-
+---
+video link 
+https://drive.google.com/file/d/1alLLBHh2hRgK19fSKlWb5WoI7w7w88LJ/view?usp=drive_link
 ---
 
 ## 📂 Data Collected
